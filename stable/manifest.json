@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "product": "VN081122",
+  "target": "esp32",
+  "channel": "stable",
+  "sequence": 3,
+  "version": "stable-000003",
+  "commit": "aeb6dd5e00214695799eea2f9d88f846fd0276a8",
+  "source_dirty": false,
+  "filename": "VN081122_ota_encrypted-aeb6dd5.bin",
+  "url": "https://github.com/littleboot/VN081122-releases/releases/download/stable-000003/VN081122_ota_encrypted-aeb6dd5.bin",
+  "size": 2101760,
+  "sha256": "b7605106eab9c93300e2325c450c87fd3dbaa90c6a99a06a2923b02a01956116"
+}
