@@ -3,12 +3,12 @@
   "product": "VN081122",
   "target": "esp32",
   "channel": "stable",
-  "sequence": 3,
-  "version": "stable-000003",
-  "commit": "aeb6dd5e00214695799eea2f9d88f846fd0276a8",
+  "sequence": 4,
+  "version": "stable-000004",
+  "commit": "c0110df4e81c60fccdeb72e57369e8b1dd61eb7e",
   "source_dirty": false,
-  "filename": "VN081122_ota_encrypted-aeb6dd5.bin",
-  "url": "https://github.com/littleboot/VN081122-releases/releases/download/stable-000003/VN081122_ota_encrypted-aeb6dd5.bin",
+  "filename": "VN081122_ota_encrypted-c0110df.bin",
+  "url": "https://github.com/littleboot/VN081122-releases/releases/download/stable-000004/VN081122_ota_encrypted-c0110df.bin",
   "size": 2101760,
-  "sha256": "b7605106eab9c93300e2325c450c87fd3dbaa90c6a99a06a2923b02a01956116"
+  "sha256": "0d98b3d8c4787ee7cea93e2b559ae39ee3eef05d9cbe9e57f0702def6a7a839f"
 }
